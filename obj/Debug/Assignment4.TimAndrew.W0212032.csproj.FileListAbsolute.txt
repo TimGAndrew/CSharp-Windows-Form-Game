@@ -1,0 +1,17 @@
+C:\Users\NSCC Student\Desktop\Programs\Andrew-Tim-w0212032\Assignment4.TimAndrew.W0212032\Assignment4.TimAndrew.W0212032\bin\Debug\Assignment4.TimAndrew.W0212032.exe.config
+C:\Users\NSCC Student\Desktop\Programs\Andrew-Tim-w0212032\Assignment4.TimAndrew.W0212032\Assignment4.TimAndrew.W0212032\bin\Debug\Assignment4.TimAndrew.W0212032.exe
+C:\Users\NSCC Student\Desktop\Programs\Andrew-Tim-w0212032\Assignment4.TimAndrew.W0212032\Assignment4.TimAndrew.W0212032\bin\Debug\Assignment4.TimAndrew.W0212032.pdb
+C:\Users\NSCC Student\Desktop\Programs\Andrew-Tim-w0212032\Assignment4.TimAndrew.W0212032\Assignment4.TimAndrew.W0212032\obj\Debug\Assignment4.TimAndrew.W0212032.csprojResolveAssemblyReference.cache
+C:\Users\NSCC Student\Desktop\Programs\Andrew-Tim-w0212032\Assignment4.TimAndrew.W0212032\Assignment4.TimAndrew.W0212032\obj\Debug\Assignment4.TimAndrew.W0212032.Properties.Resources.resources
+C:\Users\NSCC Student\Desktop\Programs\Andrew-Tim-w0212032\Assignment4.TimAndrew.W0212032\Assignment4.TimAndrew.W0212032\obj\Debug\Assignment4.TimAndrew.W0212032.csproj.GenerateResource.Cache
+C:\Users\NSCC Student\Desktop\Programs\Andrew-Tim-w0212032\Assignment4.TimAndrew.W0212032\Assignment4.TimAndrew.W0212032\obj\Debug\Assignment4.TimAndrew.W0212032.exe
+C:\Users\NSCC Student\Desktop\Programs\Andrew-Tim-w0212032\Assignment4.TimAndrew.W0212032\Assignment4.TimAndrew.W0212032\obj\Debug\Assignment4.TimAndrew.W0212032.pdb
+C:\Users\NSCC Student\Desktop\Programs\Andrew-Tim-w0212032\Assignment4.TimAndrew.W0212032\Assignment4.TimAndrew.W0212032\obj\Debug\Assignment4.TimAndrew.W0212032.Assignment4.resources
+C:\Users\NSCC Student\Desktop\Programs\Andrew-Tim-w0212032\Assignment4.TimAndrew.W0212032\Assignment4.TimAndrew.W0212032\bin\Debug\Images\TimAndrew.png
+C:\Users\NSCC Student\Desktop\Programs\Andrew-Tim-w0212032\Assignment4.TimAndrew.W0212032\Assignment4.TimAndrew.W0212032\bin\Debug\Images\tima2.png
+C:\Users\NSCC Student\Desktop\Programs\Andrew-Tim-w0212032\Assignment4.TimAndrew.W0212032\Assignment4.TimAndrew.W0212032\bin\Debug\Images\ship.png
+C:\Users\NSCC Student\Desktop\Programs\Andrew-Tim-w0212032\Assignment4.TimAndrew.W0212032\Assignment4.TimAndrew.W0212032\bin\Debug\Images\enemy1.png
+C:\Users\NSCC Student\Desktop\Programs\Andrew-Tim-w0212032\Assignment4.TimAndrew.W0212032\Assignment4.TimAndrew.W0212032\bin\Debug\Images\enemy2.png
+C:\Users\NSCC Student\Desktop\Programs\Andrew-Tim-w0212032\Assignment4.TimAndrew.W0212032\Assignment4.TimAndrew.W0212032\bin\Debug\Images\enemy3.png
+C:\Users\NSCC Student\Desktop\Programs\Andrew-Tim-w0212032\Assignment4.TimAndrew.W0212032\Assignment4.TimAndrew.W0212032\bin\Debug\Images\enemy4.png
+C:\Users\NSCC Student\Desktop\Programs\Andrew-Tim-w0212032\Assignment4.TimAndrew.W0212032\Assignment4.TimAndrew.W0212032\bin\Debug\Images\enemy5.png
